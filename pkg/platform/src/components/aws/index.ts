@@ -11,6 +11,7 @@ export * from "./sns-topic.js";
 export * from "./static-site.js";
 export * from "./vector.js";
 export * from "./solid-start.js";
+export * from "./state-machine.js";
 
 export * from "./astro.js";
 export * from "./nextjs.js";
